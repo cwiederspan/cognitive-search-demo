@@ -1,38 +1,27 @@
-# Cognitive Search Workshop
+# Cognitive API Workshop
 
-# Introduction
+## Intro
 **Name:** Chris Wiederspan  
 **Role:** Microsoft Azure App Dev Specialist  
 **Email:** chris.wiederspan@microsoft.com
 
 ## Topics
-* Create Resource Group
-* Create Storage
-  * Create Blob Container
-* Create CosmosDB
-  * Create document Collection
-* Create Computer Vision API
-* Create Content Moderation API
-* Create Face API
----
-* Show API Usage from Postman
-* Create Logic App
-* Connect Blob Storage
-* Read File content
-* Execute APIs
-* Compose results
-* Write to CosmosDB
-* Show JSON in CosmosDB
----
-* Create Java Function
-* Debug function locally
----
-* Show C# Function
-* Debug function locally
-* Show VSTS DevOps
+1. Explore and understand the [Azure Cognitive Service APIs](https://azure.microsoft.com/en-us/services/cognitive-services/)
 
-## Postman Collection
-[Use Postman to call Cognitive APIs](Postman/Cognitive+APIs.postman_collection.json)
+2. Understand the [Cognitive Search Pattern](https://azure-scenarios-experience.azurewebsites.net/search-ai.html)
 
-## Sample Images
-There are several documents in the [Sample Images](SampleImages) folder that you can use to test.
+![Cognitive Search Pattern](/content/images/cognitive-search-pattern.png)
+
+3. Call Cognitive APIs from [Azure Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/)
+
+![Logic Apps Rule](/content/images/logic-app-tweet.jpg)
+
+4. Call Cognitive APIs from [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+
+5. The JFK Files
+    * [Archives](https://www.archives.gov/research/jfk/jfkbulkdownload)
+    * [GitHub Repo](https://github.com/Microsoft/AzureSearch_JFK_Files)
+    * [Online Demo](https://jfkfiles2.azurewebsites.net/)
+    * [Online Video](https://channel9.msdn.com/Shows/AI-Show/Using-Cognitive-Search-to-Understand-the-JFK-Documents)
+
+6. Questions
