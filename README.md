@@ -14,7 +14,7 @@
 
 3. Call Cognitive APIs from [Azure Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/)
 
-![Logic Apps Rule](/content/images/logic-app-tweet.jpg | width=100)
+![Logic Apps Rule](/content/images/logic-app-tweet.jpg)
 
 4. Call Cognitive APIs from [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
 
