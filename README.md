@@ -1,4 +1,4 @@
-# Cognitive API Workshop
+# Cognitive Search Demo
 
 ## Intro
 **Name:** Chris Wiederspan  
